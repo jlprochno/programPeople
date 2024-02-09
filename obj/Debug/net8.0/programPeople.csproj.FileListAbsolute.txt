@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\bin\Debug\net8.0\programPeople.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\bin\Debug\net8.0\programPeople.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\bin\Debug\net8.0\programPeople.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\bin\Debug\net8.0\programPeople.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\bin\Debug\net8.0\programPeople.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\obj\Debug\net8.0\programPeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\obj\Debug\net8.0\programPeople.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\obj\Debug\net8.0\programPeople.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\obj\Debug\net8.0\programPeople.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\obj\Debug\net8.0\programPeople.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\obj\Debug\net8.0\refint\programPeople.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\obj\Debug\net8.0\programPeople.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\obj\Debug\net8.0\programPeople.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\programPeople\obj\Debug\net8.0\ref\programPeople.dll
